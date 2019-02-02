@@ -1,1 +1,1 @@
-This project contains 1M+ customer survey records data from Hyatt Hotels in California for the month of August,2014. The goal was to analyze the data and provide suggestions to improve NPS (Net Promoters Score).
+This project data consists of 1M+ customer survey records from Hyatt Hotels in California for the month of August,2014. The goal was to analyze the data and provide suggestions to improve NPS (Net Promoters Score).
