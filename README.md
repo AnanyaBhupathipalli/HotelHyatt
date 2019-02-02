@@ -1,1 +1,1 @@
-Analyzed data and provided suggestions to improve NPS (Net Promoters Score) for Hyatt Hotels in California
+This project contains 1M+ customer survey records data from Hyatt Hotels in California for the month of August,2014. The goal was to analyze the data and provide suggestions to improve NPS (Net Promoters Score).
