@@ -15,4 +15,4 @@ When a company considers its reputation, it must determine how that reputation i
 1. Improving the Hotel Condition, Guest Room Condition and Customer Service as they directly impact the Net Promoter Score.
 2. Improve the rooms ‘Guest Room King’ and ‘Guest Room Double,’ primarily in General Hyatt brand hotels.
 3. Center the Hotel Promotional Activities towards the age groups of 26-35, 36-45, and 46-55 as the detractors seem to be concentrated in that group.
-4. To improve the Hotel Condition, you can invest on improving facilities like Mini Bar, which will thereby have an impact on the NP
+4. To improve the Hotel Condition, you can invest on improving facilities like Mini Bar, which will thereby have an impact on the NPS
